@@ -16,5 +16,5 @@ emission trends, identify key contributors, and support efforts in mitigating cl
 - Impact Visualization: Presenting the data in an accessible and understandable way to various stakeholders, including policymakers, researchers, and the public, to foster awareness and drive action.
 - Comparative Analysis: Providing the ability to compare emissions between different countries, regions, and sectors to highlight disparities and best practices.
 
-# Airlines-Dashboard.md.txt
+# Global-CO2-Emission-Dashboard.md.txt
 Displaying # Global-CO2-Emission-Dashboard.md.txt.
