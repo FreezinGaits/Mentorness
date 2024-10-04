@@ -1,8 +1,6 @@
 
 #Global-CO2-Emission-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Project Name: Analyzing and Visualizing Global CO2 Emissions for Environmental Impact
 To create a comprehensive and interactive Power BI dashboard that visualizes global CO2 
 emissions data, providing insights for policymakers, researchers, and the public to understand 
